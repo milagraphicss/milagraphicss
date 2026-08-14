@@ -135,7 +135,7 @@ $ echo $CAFES_HOJE
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/500x320/38354F/F1F1F1?text=%E2%98%85&font-size=150" width="100%"/>
+<img src="https://placehold.co/500x320/38354F/F1F1F1?text=%3C3&font-size=150" width="100%"/>
 <h3>Identidade Visual — Lado B</h3>
 <p>Branding completo com site para uma loja de moda &amp; decoração para fãs. Dá pra sentir a vibe dos anos 80!</p>
 <img src="https://img.shields.io/badge/Branding-C8DB2A?style=flat-square&logoColor=010101"/> <img src="https://img.shields.io/badge/Logo-C8DB2A?style=flat-square&logoColor=010101"/> <img src="https://img.shields.io/badge/Site-C8DB2A?style=flat-square&logoColor=010101"/>
@@ -147,7 +147,7 @@ $ echo $CAFES_HOJE
 
 </td>
 <td width="50%" valign="top">
-<img src="https://placehold.co/500x320/7B0101/F1F1F1?text=%E2%98%85&font-size=150" width="100%"/>
+<img src="https://placehold.co/500x320/7B0101/F1F1F1?text=%3C3&font-size=150" width="100%"/>
 <h3>Site — Nyaya Personalizados</h3>
 <p>Landing page responsiva com loja integrada, pensada pra converter visita em venda sem perder a fofura da marca.</p>
 <img src="https://img.shields.io/badge/UI%2FUX-FF66C4?style=flat-square&logoColor=010101"/> <img src="https://img.shields.io/badge/HTML%2FCSS-FF66C4?style=flat-square&logoColor=010101"/> <img src="https://img.shields.io/badge/Responsivo-FF66C4?style=flat-square&logoColor=010101"/>
@@ -160,7 +160,7 @@ $ echo $CAFES_HOJE
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/500x320/FF66C4/38354F?text=%E2%98%85&font-size=150" width="100%"/>
+<img src="https://placehold.co/500x320/FF66C4/38354F?text=%3C3&font-size=150" width="100%"/>
 <h3>Identidade Visual — VULCANNA</h3>
 <p>Branding para uma marca de torrefação de café artesanal fictícia.</p>
 <img src="https://img.shields.io/badge/Social%20Media-38354F?style=flat-square&logoColor=F1F1F1"/> <img src="https://img.shields.io/badge/Dire%C3%A7%C3%A3o%20de%20Arte-38354F?style=flat-square&logoColor=F1F1F1"/>
@@ -171,7 +171,7 @@ $ echo $CAFES_HOJE
 
 </td>
 <td width="50%" valign="top">
-<img src="https://placehold.co/500x320/C8DB2A/38354F?text=%E2%98%85&font-size=150" width="100%"/>
+<img src="https://placehold.co/500x320/C8DB2A/38354F?text=%3C3&font-size=150" width="100%"/>
 <h3>Identidade Visual — Quimeria</h3>
 <p>Branding para marca fictícia de perfumes botânicos &amp; naturais.</p>
 <img src="https://img.shields.io/badge/Identidade%20Visual-010101?style=flat-square&logoColor=C8DB2A"/> <img src="https://img.shields.io/badge/Design%20de%20Posts-010101?style=flat-square&logoColor=C8DB2A"/>
