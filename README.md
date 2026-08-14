@@ -119,7 +119,7 @@ $ echo $CAFES_HOJE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,canva&theme=dark" alt="ferramentas"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,cavarly,affinity&theme=dark" alt="ferramentas"/>
 
 </div>
 
