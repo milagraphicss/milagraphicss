@@ -67,7 +67,7 @@ quinta vez só porque "ainda não tá servindo o suficiente".
 
 ```bash
 $ whoami
-SEU_NOME — designer gráfica
+Mila — designer gráfica
 & frontend developer
 
 $ cat metas.txt
