@@ -14,7 +14,7 @@
 
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=C8DB2A&center=true&vCenter=true&width=560&height=50&lines=oi%2C+eu+sou+SEU+NOME+%E2%9C%B7;designer+gr%C3%A1fica+%26+dev+front-end;eu+transformo+bagun%C3%A7a+em+identidade;bora+fazer+barulho+junto%3F+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=C8DB2A&center=true&vCenter=true&width=560&height=50&lines=oi%2C+eu+sou+a+Mila+%E2%9C%B7;designer+gr%C3%A1fica+%26+dev+front-end;eu+transformo+bagun%C3%A7a+em+identidade;bora+fazer+barulho+junto%3F+%F0%9F%92%A5" alt="Typing SVG" />
 </a>
 
 <!-- ================= BADGES DE STATUS ================= -->
