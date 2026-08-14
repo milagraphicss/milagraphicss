@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ================= BANNER PRINCIPAL — EFEITO DE BOOT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38354F,50:7B0101,100:C8DB2A&height=230&section=header&text=MILA%20//%20SYSTEM.EXE&fontSize=46&fontColor=F1F1F1&animation=fadeIn&fontAlignY=36&desc=Designer%20Gr%C3%A1fica%20%26%20Frontend%20Developer&descAlignY=54&descSize=19&descColor=FF66C4" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?
+type=waving&color=0:38354F,50:7B0101,100:C8DB2A&height=230&section=header&text=MILA%20//%20SYSTEM.EXE&fontSize=46&fontColor=F1F1F1&animation=fadeIn&fontAlignY=36&desc=Designer%20Gr%C3%A1fica%20%26amp%3B%20Frontend%20Developer&descAlignY=54&descSize=19&descColor=FF66C4" width="100%" alt="banner"/>
 
 ```ansi
 [1;92mINICIANDO SISTEMA_MILA.EXE...[0m
