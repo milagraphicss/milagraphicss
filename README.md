@@ -234,14 +234,6 @@ mila@dev:~$ _
 </div>
 
 <br>
-
-<div align="center">
-
-### ✷ Troféus
-
-<!-- o endpoint oficial (github-profile-trophy.vercel.app) fica sobrecarregado e cai com frequência; usando um espelho da comunidade que está de pé. Se algum dia ele cair também, troque por outro da lista em https://github.com/ryo-ma/github-profile-trophy#-endpoints -->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=milagraphicss&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title.color=C8DB2A&text.color=F1F1F1&icon.color=FF66C4&background=38354F"/>
-
 </div>
 
 <br>
