@@ -261,10 +261,6 @@ mila@dev:~$ _
 
 </div>
 
-<details>
-<summary><strong>⚙️ a cobrinha não é automática — clique aqui pra ver como ativar (leva 2 minutos)</strong></summary>
-<br>
-
 </details>
 
 <br>
