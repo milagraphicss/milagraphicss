@@ -220,9 +220,6 @@ mila@dev:~$ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=milagraphicss&show_icons=true&count_private=true&hide_border=true&title_color=C8DB2A&icon_color=FF66C4&text_color=F1F1F1&bg_color=38354F&ring_color=FF66C4"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milagraphicss&layout=compact&hide_border=true&title_color=C8DB2A&text_color=F1F1F1&bg_color=38354F&langs_count=8"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=milagraphicss&hide_border=true&background=38354F&ring=FF66C4&fire=C8DB2A&currStreakLabel=C8DB2A&sideLabels=F1F1F1&currStreakNum=F1F1F1&sideNums=F1F1F1&dates=FF66C4"/>
