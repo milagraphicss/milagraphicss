@@ -3,15 +3,6 @@
 <!-- ================= BANNER PRINCIPAL — EFEITO DE BOOT ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38354F,50:7B0101,100:C8DB2A&height=230&section=header&text=MILA%20//%20SYSTEM.EXE&fontSize=46&fontColor=F1F1F1&animation=fadeIn&fontAlignY=36&desc=Designer%20Gr%C3%A1fica%20%26amp%3B%20Frontend%20Developer&descAlignY=54&descSize=19&descColor=FF66C4" width="100%" alt="banner"/>
 
-```ansi
-[1;92mINICIANDO SISTEMA_MILA.EXE...[0m
-[1;95m[OK][0m Carregando identidade visual............ [1;92mpronto[0m
-[1;95m[OK][0m Compilando criatividade.................. [1;92mpronto[0m
-[1;95m[OK][0m Procurando fotos de gatinhos fofos na web...... [1;92mpronto[0m
-[1;95m[OK][0m Verificando nível de estilo.............. [1;92m100%[0m
-[1;96mSISTEMA PRONTO. BEM-VINDO(A) AO MEU PERFIL.[0m
-```
-
 <!-- ================= TYPING ANIMATION ================= -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=C8DB2A&center=true&vCenter=true&width=560&height=50&lines=oi%2C+eu+sou+a+Mila+%E2%9C%B7;designer+gr%C3%A1fica+%26+dev+front-end;eu+transformo+bagun%C3%A7a+em+identidade;bora+fazer+barulho+junto%3F+%F0%9F%92%A5" alt="Typing SVG" />
@@ -208,30 +199,6 @@ mila@dev:~$ status --atual
 
 mila@dev:~$ _
 ```
-
-<br>
-
-<!-- ================================================================= -->
-<!-- ============================ GITHUB STATS ========================== -->
-<!-- ================================================================= -->
-<a name="stats"></a>
-
-## ✷ GitHub Stats
-
-<div align="center">
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=milagraphicss&hide_border=true&background=38354F&ring=FF66C4&fire=C8DB2A&currStreakLabel=C8DB2A&sideLabels=F1F1F1&currStreakNum=F1F1F1&sideNums=F1F1F1&dates=FF66C4"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milagraphicss&bg_color=38354F&color=C8DB2A&line=FF66C4&point=F1F1F1&area=true&area_color=FF66C4&hide_border=true&custom_title=Atividade%20recente"/>
-
-</div>
-
-<br>
-</div>
 
 <br>
 
